@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "^7.9.1",
-    "graphql-tools": "^6.2.3"
+    "graphql-tools": "^6.2.3",
+    "graphql-type-json": "^0.3.2"
   },
   "devDependencies": {
   }
