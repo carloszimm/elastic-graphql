@@ -1,0 +1,26 @@
+{
+  "name": "elastic-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Carlos Zimmerle <carloszimmerle@gmail.com> (github.com/carloszimm)",
+  "main": "./lib",
+  "homepage": "https://github.com/carloszimm/elastic-graphql#readme",
+  "bugs": {
+    "url": "https://github.com/carloszimm/elastic-graphql/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloszimm/elastic-graphql.git"
+  },
+  "keywords": ["graphql", "elasticsearch", "graphql-api"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.9.1",
+    "graphql-tools": "^6.2.3"
+  },
+  "devDependencies": {
+  }
+}
